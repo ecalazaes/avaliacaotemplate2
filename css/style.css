@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    transition: .5s !important;
+}
+
+a:hover {
+    color: #f68f28 !important;
+    transition: .5s;
+}
+
+.btn-grande {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.cor-h1 {
+    color: #012c5f;
+}
+
+.cor-p-banner {
+    color: #012c5f;
+}
+
+.cor-h2 {
+    color: #f68f28;
+}
+
+.cor-p-artigo {
+    color: #f68f28;
+}
+
+.bg-artigos {
+    background-color: #012c5f;
+}
+
+.btn-outline-primary {
+    border-color: #012c5f;
+}
+
+.card {
+    background-color: #012c5f;
+}
+
+.bg-artigos {
+    background-color: #012c5f;
+}
+
+.bg-div-sem-nada {
+    background-color: #012c5f;
+}
+
+.bg-footer {
+    background-color: #f58e27;
+}
+
+.cor-footer {
+    color: #012c5f;
+}
